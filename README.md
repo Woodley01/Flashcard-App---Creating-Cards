@@ -6,7 +6,7 @@ Users click on '+' to add a card. They enter a question and an answer, then pres
 
 ### App Walk-though
 
-<img src="https://submissions.us-east-1.linodeobjects.com/mobile_app_design/OgSosvcm.gif" width=200><br>
+<img src="https://github.com/Woodley01/Flashcard-App---Creating-Cards/blob/main/video%20(1).gif" width=200><br>
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
